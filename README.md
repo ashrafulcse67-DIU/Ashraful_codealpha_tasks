@@ -6,30 +6,9 @@ This repository contains my projects completed as part of the CodeAlpha internsh
 
 | Task | Project | Description |
 |---|---|---|
-| Task 1 | **Personal Portfolio** | A personal portfolio website showcasing my profile, skills, projects, experience, certificates, and contact information. |
 | Task 2 | **HisabCulator** | A calculator project designed to make everyday calculations simple and convenient. |
+| Task 3 | **Personal Portfolio** | A personal portfolio website showcasing my profile, skills, projects, experience, certificates, and contact information. |
 
----
-
-## 🌐 Task 1: Personal Portfolio
-
-A personal portfolio website that introduces me and highlights my skills, projects, experience, certificates, and creative work.
-
-### Features
-- Personal introduction and About section
-- Skills and technologies showcase
-- Projects portfolio
-- Experience and certificates
-- Creative work gallery
-- Contact section
-- Responsive layout and interactive UI elements
-
-### Technologies
-- HTML5
-- CSS3
-- JavaScript
-
-**Project folder:** `Task-1/`
 
 ---
 
@@ -48,16 +27,37 @@ A personal portfolio website that introduces me and highlights my skills, projec
 **Project folder:** `Task-2/`
 
 ---
+## 🌐 Task 3: Personal Portfolio
+
+A personal portfolio website that introduces me and highlights my skills, projects, experience, certificates, and creative work.
+
+### Features
+- Personal introduction and About section
+- Skills and technologies showcase
+- Projects portfolio
+- Experience and certificates
+- Creative work gallery
+- Contact section
+- Responsive layout and interactive UI elements
+
+### Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+**Project folder:** `Task-3/`
+
+---
 
 ## 📂 Repository Structure
 
 ```text
-codealpha_tasks/
+Ashraful_codealpha_tasks/
 ├── README.md
-├── Task-1/
-│   └── Portfolio project files
-└── Task-2/
-    └── HisabCulator project files
+├── Task-2/
+│   └── HisabCulator project files
+└── Task-3/
+    └── Personal Portfolio project files
 ```
 
 *If your actual folder or file names differ, update this structure to match your repository.*
